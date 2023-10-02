@@ -1,0 +1,25 @@
+{
+  "name": "small-in-memory-cache",
+  "version": "0.1.0",
+  "description": "An in memory cache library for node handling TTL and maximum number of entries.",
+  "main": "src/index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CyrilCalmels/node-small-in-memory-cache.git"
+  },
+  "keywords": [
+    "cache",
+    "in",
+    "memory",
+    "ttl"
+  ],
+  "author": "Cyril Calmels",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/CyrilCalmels/node-small-in-memory-cache/issues"
+  },
+  "homepage": "https://github.com/CyrilCalmels/node-small-in-memory-cache#readme"
+}
